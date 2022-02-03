@@ -1,0 +1,21 @@
+
+-Single responsive page, mobile-first with Bootstrap CDN
+-Carousel component with five images (remember to normalize the size)
+-Must contain previous and next button controls
+-Must have captions to each image
+-Add 3 x Card component (with button) added below carousel section
+-One of the Card component button need the modal feature applied to it
+-Post Git Hub url link
+-Git Hub commits beginning to end of project - well documented history
+-No errors
+
+-Add 5 pictures to a page (remember to normalize the size)
+-Slides with all five images with the same photo size and dimensions.
+-Add previous and next controls
+-No code or link errors
+-Add captions to all five pictures
+-Git Hub commits beginning to end
+-Post Git Hub url link
+-Add 3 Card component feature below carousel
+-Implemented responsive, mobile-first with Bootstrap CDN
+-One of the 3 Card component needs the modal feature applied to it.
